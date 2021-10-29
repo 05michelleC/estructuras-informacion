@@ -6,9 +6,9 @@ import org.apache.log4j.Logger;
  *
  * @author michelle
  */
-public class Hanoi{
+public class Hanoi {
 
-    static Logger log = Logger.getLogger(HanoiT.class.getName());
+    static Logger log = Logger.getLogger(Hanoi.class.getName());
 
     public static Pila fila1 = new Pila();
     public static Pila fila2 = new Pila();
